@@ -1,3 +1,5 @@
+English | [Русский](README.ru.md)
+
 # AIGeoLock
 
 **A secure, modular LLM gateway with geo-aware routing through VPN tunnels.**
